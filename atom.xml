@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://dfbnjajb.github.io/atom.xml" rel="self"/>
+  <link href="https://ggbond.xin/atom.xml" rel="self"/>
   
-  <link href="https://dfbnjajb.github.io/"/>
-  <updated>2024-12-03T09:11:50.589Z</updated>
-  <id>https://dfbnjajb.github.io/</id>
+  <link href="https://ggbond.xin/"/>
+  <updated>2024-12-03T09:45:06.245Z</updated>
+  <id>https://ggbond.xin/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>小白</title>
+    <link href="https://ggbond.xin/posts/eb48bdac.html"/>
+    <id>https://ggbond.xin/posts/eb48bdac.html</id>
+    <published>2024-12-03T17:13:41.000Z</published>
+    <updated>2024-12-03T09:45:06.245Z</updated>
+    
+    <content type="html"><![CDATA[<p>#文章配置</p><p>bgrstr</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#文章配置&lt;/p&gt;
+&lt;p&gt;bgrstr&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title></title>
-    <link href="https://dfbnjajb.github.io/posts/0.html"/>
-    <id>https://dfbnjajb.github.io/posts/0.html</id>
-    <published>2024-12-03T09:11:50.589Z</published>
-    <updated>2024-12-03T09:11:50.589Z</updated>
+    <link href="https://ggbond.xin/posts/0.html"/>
+    <id>https://ggbond.xin/posts/0.html</id>
+    <published>2024-12-03T09:45:06.245Z</published>
+    <updated>2024-12-03T09:45:06.245Z</updated>
     
     
     
