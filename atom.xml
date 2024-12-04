@@ -1,27 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>谧信守界</title>
   
   
   <link href="https://ggbond.xin/atom.xml" rel="self"/>
   
   <link href="https://ggbond.xin/"/>
-  <updated>2024-12-03T09:45:06.245Z</updated>
+  <updated>2024-12-04T05:36:21.605Z</updated>
   <id>https://ggbond.xin/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>ggbond</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://ggbond.xin/posts/0.html"/>
+    <id>https://ggbond.xin/posts/0.html</id>
+    <published>2024-12-04T05:36:21.605Z</published>
+    <updated>2024-12-04T05:36:21.605Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>小白</title>
     <link href="https://ggbond.xin/posts/eb48bdac.html"/>
     <id>https://ggbond.xin/posts/eb48bdac.html</id>
     <published>2024-12-03T17:13:41.000Z</published>
-    <updated>2024-12-03T09:45:06.245Z</updated>
+    <updated>2024-12-04T05:36:21.605Z</updated>
     
     <content type="html"><![CDATA[<p>#文章配置</p><p>bgrstr</p>]]></content>
     
@@ -32,19 +45,6 @@
 &lt;p&gt;bgrstr&lt;/p&gt;
 </summary>
       
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://ggbond.xin/posts/0.html"/>
-    <id>https://ggbond.xin/posts/0.html</id>
-    <published>2024-12-03T09:45:06.245Z</published>
-    <updated>2024-12-03T09:45:06.245Z</updated>
-    
     
     
     
